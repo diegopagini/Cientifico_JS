@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/diegopagini/cientifico/issues"
   },
-  "homepage": "https://github.com/diegopagini/cientifico#readme"
+  "homepage": "https://github.com/diegopagini/cientifico#readme",
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "babel-loader": "^8.1.0",
+    "html-webpack-plugin": "^4.4.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
 }
