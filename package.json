@@ -1,7 +1,7 @@
 {
   "name": "spa-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "single page application",
   "main": "index.js",
   "scripts": {
     "build":"webpack --mode production",
